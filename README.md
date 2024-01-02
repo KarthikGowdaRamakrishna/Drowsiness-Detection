@@ -7,6 +7,7 @@ Steps:
 2. Since <a href="https://github.com/ultralytics/yolov5">yolov5</a> is already a pretrained model, we load it into our enviroment and run it on a generic image to check how it makes it's detections. 
 
 ![output](https://user-images.githubusercontent.com/97375173/187121160-d42d4da8-51c7-442f-bef7-ca4545fe7925.png)
+#using 'opencv' lib to make realtime detection using computers webcam 
 ![image](https://github.com/KarthikGowdaRamakrishna/Drowsiness-Detection/assets/144963620/f7f2ab5e-ed44-415b-b221-b6e06d5a7b52)
 ![image](https://github.com/KarthikGowdaRamakrishna/Drowsiness-Detection/assets/144963620/7931deb3-63ef-4402-8bf9-ddfdbd3ff332)
 
@@ -22,3 +23,6 @@ Steps:
 
 6. Our train dataset is now ready to be input in the model. We then train the model on the basis of the dataset we just created. 
 7. Using our trained model and OpenCV webcame feed we can now make real-time detections to see if a person is awake or sleepy.
+# Results in Real-Time live feed from web cam
+![image](https://github.com/KarthikGowdaRamakrishna/Drowsiness-Detection/assets/144963620/6d654edb-24c3-44c1-8b88-f84f2913b0f0)
+# Please do check out the results.csv at the end reaching a precision close to 0.99
