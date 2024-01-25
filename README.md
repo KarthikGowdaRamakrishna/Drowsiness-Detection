@@ -25,4 +25,5 @@ Steps:
 7. Using our trained model and OpenCV webcame feed we can now make real-time detections to see if a person is awake or sleepy.
 # Results in Real-Time live feed from web cam
 ![image](https://github.com/KarthikGowdaRamakrishna/Drowsiness-Detection/assets/144963620/6d654edb-24c3-44c1-8b88-f84f2913b0f0)
-# Please do check out the results.csv at the end reaching a precision close to 0.99
+# Please do check out the results.csv for better understanding
+
